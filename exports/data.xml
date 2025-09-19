@@ -1,0 +1,19 @@
+<CustomerExport>
+  <customerName>Test</customerName>
+  <totalAmount>10.0</totalAmount>
+  <frequentRenterPoints>1</frequentRenterPoints>
+  <customerRentals>
+    <customerRentals>
+      <rentalMovieName>Zack Snyder's Justice League</rentalMovieName>
+      <rentalMovieAmount>6.5</rentalMovieAmount>
+    </customerRentals>
+    <customerRentals>
+      <rentalMovieName>Terminator</rentalMovieName>
+      <rentalMovieAmount>2.0</rentalMovieAmount>
+    </customerRentals>
+    <customerRentals>
+      <rentalMovieName>Soul</rentalMovieName>
+      <rentalMovieAmount>1.5</rentalMovieAmount>
+    </customerRentals>
+  </customerRentals>
+</CustomerExport>

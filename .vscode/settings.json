@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\jackson-databind-2.20.0.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\jackson-core-2.20.0.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\jackson-annotations-2.20.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\jackson-dataformat-xml-2.20.0.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\woodstox-core-7.1.1.jar",
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\stax2-api-4.2.2.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Ignacio.Villarroel\\Downloads\\woodstox-core-7.1.1.jar"
+        ]
+    }
+}

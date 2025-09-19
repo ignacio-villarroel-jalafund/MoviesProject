@@ -1,0 +1,15 @@
+{
+  "customerName" : "Test",
+  "totalAmount" : 10.0,
+  "frequentRenterPoints" : 1,
+  "customerRentals" : [ {
+    "rentalMovieName" : "Zack Snyder's Justice League",
+    "rentalMovieAmount" : 6.5
+  }, {
+    "rentalMovieName" : "Terminator",
+    "rentalMovieAmount" : 2.0
+  }, {
+    "rentalMovieName" : "Soul",
+    "rentalMovieAmount" : 1.5
+  } ]
+}
